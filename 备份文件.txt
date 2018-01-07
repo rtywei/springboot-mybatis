@@ -1,0 +1,6 @@
+该版本的springboot一定要使用一下配置，否则启动失败
+		<dependency>
+			<groupId> org.aspectj</groupId>
+			<artifactId>aspectjweaver</artifactId>
+			<version>1.6.11</version>
+		</dependency>
